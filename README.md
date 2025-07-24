@@ -1,1 +1,7 @@
-This website is still in developement. Please check after the next push for further developements
+# React-Facts Static Webpage
+This is a static website outlining some basic facts related to React. 
+
+> [!NOTE]  
+> **This was not meant to be a project**. <br />
+> A webpage created solely for practicing creating static webpages in React <br />
+> Contains basic CSS
